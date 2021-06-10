@@ -1,7 +1,6 @@
 # Olá, eu sou o Matheus Francisco👋
 ## Seja Bem-vindo(a) ao meu portfolio/repositório
 ### Linguagens e Ferramentas:
-![python](https://user-images.githubusercontent.com/55605360/121577721-3270dc00-ca00-11eb-961d-6c2b8eb24578.png)
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
