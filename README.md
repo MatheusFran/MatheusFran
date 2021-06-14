@@ -9,6 +9,6 @@
   <img align="center"  height="30" width="40" src="![java](https://user-images.githubusercontent.com/55605360/121578774-6a2c5380-ca01-11eb-9f1c-890a37058f94.png)
 ">
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFran)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMatheusFran)](https://github.com/anuraghazra/github-readme-stats)
 
 
