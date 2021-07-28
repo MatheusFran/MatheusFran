@@ -2,7 +2,7 @@
 
 Olá, nobre visitante. Me chamo Matheus, tenho 21 anos e sou loucamente apaixonado por tecnologia, desde que ganhei meu primeiro computador há uns 12 anos atrás.
 
-Tudo começou no Design. Criando logomarcas, fachadas , fazendo edições de vídeo e assim foi por muito tempo. Mas, nunca me senti satisfeito e feliz com o que eu fazia. Até o momento em que escrevi o meu primeiro "hello World", que foi em Python. De lá pra cá venho estudado e aprimorado cada dia mais na universo da programação.
+Tudo começou no Design. Criando logomarcas, fachadas , fazendo edições de vídeo e assim foi por muito tempo. Mas, nunca me senti satisfeito e feliz com o que eu fazia. Até o momento em que escrevi o meu primeiro "hello World", que foi em Python. De lá pra cá venho estudado e aprimorado cada dia mais no universo da programação.
 
 
 # Estudos
