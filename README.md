@@ -9,6 +9,8 @@ Tudo começou no Design. Criando logomarcas, fachadas , fazendo edições de ví
 
 Atualmente estou cursando Ciência de Dados. Já com planos para iniciar Engenharia de Software em 2022. Também, já cursei por engenharia da computação por cinco períodos.
 Todas as ferramentas e tecnologias que uso aprendi estudando e pesquisando por conta própria. 
+
+
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFran&layout=compact&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
 
 
