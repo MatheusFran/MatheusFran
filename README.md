@@ -12,6 +12,6 @@ Olá, aqui você pode encontrar meus projetos e estudos. Fique a vontade para ex
   
 </div>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFran&layout=compact&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFran&layout=compact&theme=dark )](https://github.com/anuraghazra/github-readme-stats)
 
 
