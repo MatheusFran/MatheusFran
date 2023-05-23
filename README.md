@@ -7,11 +7,7 @@ Olá, aqui você pode encontrar meus projetos e estudos. Fique a vontade para ex
 <div> 
   
   <a href="https://instagram.com/matheus.francis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "matheus.francisco.rr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheusfranciscorr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFran&layout=compact&theme=dark )](https://github.com/anuraghazra/github-readme-stats)
 
 
