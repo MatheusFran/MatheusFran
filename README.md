@@ -6,7 +6,6 @@ Olá, aqui você pode encontrar meus projetos e estudos. Fique a vontade para ex
  
 <div> 
   
-  <a href="https://instagram.com/matheus.francis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheusfranciscorr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
