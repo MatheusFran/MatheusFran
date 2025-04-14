@@ -2,7 +2,7 @@
 
 Cientista de Dados com 4 anos de experiência na criação de soluções orientadas por dados. Atuação em análise exploratória, modelagem preditiva, definição de KPIs e construção de pipelines de dados. Experiência em projetos de segmentação, recomendação, automação analítica e desenvolvimento de agentes de IA. Comprometido com a geração de valor por meio de Inteligência Artificial aplicada à tomada de decisões.
 ## 🤖 HardSkills:
-<table align="center" style="background-color: white; border-radius: 16px; padding: 20px; border: 1px solid #ddd;">
+<table align="center" style="background-color:'#ffffff'; border-radius: 16px; padding: 20px; border: 1px solid #ddd;">
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python" />
@@ -17,7 +17,7 @@ Cientista de Dados com 4 anos de experiência na criação de soluções orienta
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="50" alt="NumPy" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="50" alt="Anaconda" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS" />
     </td>
   </tr>
   <tr>
@@ -35,11 +35,6 @@ Cientista de Dados com 4 anos de experiência na criação de soluções orienta
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" alt="Google Cloud" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="5" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" alt="AWS" />
     </td>
   </tr>
 </table>
