@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Matheus Francisco
 
-Cientista de Dados com 4 anos de experiência na criação de soluções orientadas por dados. Atuação em análise exploratória, modelagem preditiva, definição de KPIs e construção de pipelines de dados. Experiência em projetos de segmentação, recomendação, automação analítica e desenvolvimento de agentes de IA. Comprometido com a geração de valor por meio de Inteligência Artificial aplicada à tomada de decisões.
+Cientista de Dados com +3 anos de experiência na criação de soluções orientadas por dados. Atuação em análise exploratória, modelagem preditiva, definição de KPIs e construção de pipelines de dados. Experiência em projetos de segmentação, recomendação, automação analítica e desenvolvimento de agentes de IA. Comprometido com a geração de valor por meio de Inteligência Artificial aplicada à tomada de decisões.
 ## 🤖 HardSkills:
 <table align="center" style="background-color:'#ffffff'; border-radius: 16px; padding: 20px; border: 1px solid #ddd;">
   <tr>
