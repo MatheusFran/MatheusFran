@@ -1,20 +1,18 @@
 
-# 🐐 Maximus Soares Demo Account
-**`Growth Lead at NextWork`** 
+# 🐺 Hi, I'm Matheus Francisco
+**`Passionate of Data`** 
 
 ## About Me
-- I build, ship, and tell the story in public.
-- Grew NextWorks social media to 250K+ followers in one year.
-- Help teach 145,000+ students cloud, AI, and tech skills
-
+- I build solutions with data technology.
+- 4 years of experience as a data professional.
+- I've helped around 100 people with AI, Machine Learning and Analytics solutions.
 
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,python,seaborn,sklearn,pytorch,pycharm,postgres,mongodb&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,python,gcp,sklearn,pytorch,pycharm,postgres,mongodb&theme=light)](https://skillicons.dev)
 
-**Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
-
+**Also comfortable with**: SQL, CI/CD pipelines, Airflow, IAM), Basic ML workflows with ZenML and BentoML, Databricks.
 
 ---
 
