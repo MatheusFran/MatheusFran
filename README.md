@@ -4,7 +4,6 @@
 ## About Me
 - I build solutions with data technology.
 - 4 years of experience as a data professional.
-- I've helped around 100 people with AI, Machine Learning and Analytics solutions.
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
