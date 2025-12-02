@@ -12,12 +12,3 @@
 **Also comfortable with**: SQL, CI/CD pipelines, Airflow, Databricks.
 ---
 
-## Stats
-<!-- Stats card by anuraghazra/github-readme-stats
-     Customization guide:
-     - Hide private contributions: &count_private=true|false
-     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
-     - Show icons: &show_icons=true
-     Docs: https://github.com/anuraghazra/github-readme-stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFran&show_icons=true&theme=gruvbox)
-
